@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Mona Ali Mostafa",
+      "track": "OS",
+      "email": "mona@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "2",
+      "name": "Aya Adel ff",
+      "track": "PD",
+      "email": "ayaadel@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "3",
+      "name": "fdsfdf",
+      "track": "AI",
+      "email": "eeeeee",
+      "password": "fdfd"
+    }
+  ]
+}
