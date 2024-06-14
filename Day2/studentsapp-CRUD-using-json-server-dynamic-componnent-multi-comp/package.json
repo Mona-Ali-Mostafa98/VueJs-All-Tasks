@@ -1,0 +1,24 @@
+{
+  "name": "studentsapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "dbjson": "json-server --watch --port 5000 database.json"
+  },
+  "dependencies": {
+    "g": "^2.0.1",
+    "json-server": "^1.0.0-alpha.23",
+    "vue": "^3.2.13"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "~5.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
